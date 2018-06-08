@@ -134,6 +134,7 @@
         <framework src="libs/ios/BaiduMapAPI_Base.framework" custom="true"/>
         <framework src="libs/ios/BaiduMapAPI_Location.framework" custom="true"/>
         <framework src="libs/ios/BaiduMapAPI_Search.framework" custom="true"/>
+        <framework src="libs/ios/BaiduMapAPI_Radar.framework" custom="true"/>
         <source-file src="libs/ios/thirdlibs/libcrypto.a" framework="true"/>
         <source-file src="libs/ios/thirdlibs/libssl.a" framework="true"/>
 
